@@ -13,6 +13,6 @@ It offers a company suite, a cloud-based storage system, payroll calculations an
 
 <img width="1300" alt="Screen Shot 2021-08-22 at 4 55 25 AM" src="https://user-images.githubusercontent.com/71997372/130348851-5ecde02e-d90a-4f63-86b0-89598637fade.png">
 
-### ☁️ Front-end demo
+### ☁️ Demo
 
-Currently setting up deployment
+Check out our front-end demo at https://ventr-xi.vercel.app/admin/dashboard
